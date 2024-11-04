@@ -1,0 +1,21 @@
+{
+  "name": "Lottie Animation Project",
+  "short_name": "LottieAnim",
+  "start_url": "/bandi/LottieAnimationProject/index.html",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Animation Lottie en plein écran",
+  "icons": [
+    {
+      "src": "/bandi/LottieAnimationProject/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/bandi/LottieAnimationProject/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
